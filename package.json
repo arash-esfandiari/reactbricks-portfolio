@@ -7,8 +7,7 @@
     "scripts": {
         "dev": "next dev",
         "build": "next build && next export",
-        "start": "next start",
-        "export": "yarn run build && next export && mv out _static"
+        "start": "next start"
     },
     "dependencies": {
         "firebase": "^9.13.0",

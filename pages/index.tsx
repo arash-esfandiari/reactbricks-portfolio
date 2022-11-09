@@ -6,7 +6,7 @@ import {
     cleanPage,
     types,
 } from 'react-bricks/frontend'
-import Head from 'next/head' s
+import Head from 'next/head'
 import { GetStaticProps } from 'next'
 
 import config from '../react-bricks/config'
